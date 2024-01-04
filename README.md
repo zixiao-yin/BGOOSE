@@ -7,10 +7,10 @@
 - In out-of-cohort validations, _BGOOSE_ :swan: still achieves around **75% sleep staging accuracy** :dart: on two external datasets (the Tsinghua dataset [2]) and the UCSF dataset [3]) recorded at different postoperative time points and using different DBS devices.<br />
 
 # Installation
-- Sorry that due to the limited time I currently have :disappointed:, it’s not possible for me to organize BGOOSE into a neat python package. Having that said, the main function of the BGOOSE can still be utilized by downloading the pretrained BGOOSE :swan: model (https://osf.io/mt72e/). A demo data can also be downloaded at the same website.
+- Sorry that due to the limited time I currently have :disappointed:, it’s not possible for me to organize BGOOSE into a neat python package. Having that said, the main function of the BGOOSE can still be utilized by downloading the pretrained BGOOSE :swan: model (you can find it at https://osf.io/mt72e/). A demo data can also be downloaded at the same website.
 
 # Basic Usage
-- Please check the jupyter notebook (BGOOSE - demo.ipynb) for a demo usage of BGOOSE. For any question or suggestion please find my contact information at [my GitHub profile](https://github.com/zixiao-yin). :smiley:
+- Please check the jupyter notebook (BGOOSE - demo.ipynb) for a demo usage of BGOOSE. For any question or suggestion please contact me directly at zixiao_yin@ccmu.edu.cn :smiley:
 
 # Reference
 - [1] Yin, Z. X. et al. Generalized sleep decoding with basal ganglia signals in multiple movement disorders. Not yet published (2024)
